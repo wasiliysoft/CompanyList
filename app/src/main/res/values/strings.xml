@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Список компаний</string>
+    <string name="detail_label">Детали</string>
+</resources>
